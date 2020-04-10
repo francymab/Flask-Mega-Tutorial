@@ -1,1 +1,15 @@
 venv/
+.DS_Store
+.flaskenv
+*.pyc
+*.pyo
+dist/
+build/
+*.egg
+*.egg-info/
+_mailinglist
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
